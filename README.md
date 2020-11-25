@@ -1,2 +1,2 @@
-# best-css-pagination-snippets
+# Best CSS Pagination Snippets
 GitHub Pages

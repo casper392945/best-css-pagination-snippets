@@ -73,7 +73,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -84,7 +84,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "app/themes/mobirise5/components/header2/../_images/background7.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1441.jpg"
       },
       "components": [
         {

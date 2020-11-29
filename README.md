@@ -1,5 +1,5 @@
-# Best CSS Pagination Snippets
-GitHub Pages
+# 97+ Best CSS Pagination Snippets
+
 
 ![Best CSS Pagination Snippets](https://casper55.ru/best-css-pagination-snippets/assets/images/Screenshot_2020-11-29%20Best%20CSS%20Pagination%20Snippets.png)
 
